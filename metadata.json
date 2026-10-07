@@ -1,0 +1,6 @@
+{
+  "name": "Quran Video Editor",
+  "description": "Professional mobile Quran video editor with AI auto-captioning, timeline editing, and Quran database integration by Hafiz Abdul Majid Mangrew.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
